@@ -1,6 +1,7 @@
 {
   "name": "mercyshop-ruleta",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "start": "node scripts/dev.mjs",
     "dev:front": "ng serve",
